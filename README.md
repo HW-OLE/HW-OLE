@@ -1,0 +1,4 @@
+-  Hi, I’m @HW-OLE
+-  I’m interested in Programming and PCs
+-  I’m currently learning javascript and python.
+-  Languages that i've already learned are html and CSS
