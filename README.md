@@ -1,4 +1,3 @@
 -  Hi, I’m @HW-OLE
--  I’m interested in Programming and PCs
--  I’m currently learning javascript and python.
--  Languages that i've already learned are html and CSS
+-  I'm interested in anything PC-related, especcially on the enterprise side
+-  I also like Networking, currently experimenting with OpenWRT and having done some stuff with OPNSense, PFSense, Mikrotik and Cisco
